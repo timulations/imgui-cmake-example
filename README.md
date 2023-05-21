@@ -9,8 +9,8 @@ brew install sdl2
 
 Clone this repo with submodules, and build:
 ```
-git clone https://github.com/timulations/imgui-cmake.git --recurse-submodules
-cd imgui-cmake
+git clone https://github.com/timulations/imgui-cmake-example.git --recurse-submodules
+cd imgui-cmake-example
 mkdir build && cd build
 cmake ..
 make -j4
